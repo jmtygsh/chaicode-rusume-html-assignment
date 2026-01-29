@@ -2,9 +2,15 @@
 
 Building a single-page resume website in HTML, a cohort26 assignment.
 
+![Resume Preview](pageimg.png)
+
 ## How to Open
 
 Simply click the `index.html` file to open it in your default web browser.
+
+or 
+
+Use live server extension after downloading and open on vs code.
 
 
 ## HTML Tags Used
